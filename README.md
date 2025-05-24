@@ -1,6 +1,5 @@
-# track-tutorials
-
 # LINEYahoo のフロントエンド開発-React用のディレクトリ
+https://github.com/givery-technology/track-tutorials
 ## turorial ディレクトリにチュートリアルを行う．(2025/05/23)
 
 ## 行ったこと
